@@ -1,0 +1,12 @@
+C:\Users\agneo\source\repos\GameClass\bin\Debug\GameClass.exe
+C:\Users\agneo\source\repos\GameClass\bin\Debug\GameClass.pdb
+C:\Users\agneo\source\repos\GameClass\obj\Debug\GameClass.csprojResolveAssemblyReference.cache
+C:\Users\agneo\source\repos\GameClass\obj\Debug\GameClass.csproj.CoreCompileInputs.cache
+C:\Users\agneo\source\repos\GameClass\obj\Debug\GameClass.exe
+C:\Users\agneo\source\repos\GameClass\obj\Debug\GameClass.pdb
+C:\Users\agneo\Desktop\GameClass\GameClass\bin\Debug\GameClass.exe
+C:\Users\agneo\Desktop\GameClass\GameClass\bin\Debug\GameClass.pdb
+C:\Users\agneo\Desktop\GameClass\GameClass\obj\Debug\GameClass.csprojResolveAssemblyReference.cache
+C:\Users\agneo\Desktop\GameClass\GameClass\obj\Debug\GameClass.csproj.CoreCompileInputs.cache
+C:\Users\agneo\Desktop\GameClass\GameClass\obj\Debug\GameClass.exe
+C:\Users\agneo\Desktop\GameClass\GameClass\obj\Debug\GameClass.pdb
